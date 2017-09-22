@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/shivansh/.android/build-cache/5fae38f10ac45bafd91304db32c6b6c4789adba8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/home/shivansh/AndroidStudioProjects/MoviesLibrary2/app/build/intermediates/pre-dexed/debug/classes_2868df1c5e4228df8ba23c1980223297594faf64.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shivansh/.android/build-cache/93b0ee7ec69a3d67e0d030017f3afb975f81f441/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/home/shivansh/AndroidStudioProjects/MoviesLibrary2/app/build/intermediates/pre-dexed/debug/classes_842e09c0f40b1b036f3a25fc225c3cb37be58c02.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shivansh/.android/build-cache/1b80ce3ef6cb19f339c8a64c3382c65fadbb0af5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/home/shivansh/AndroidStudioProjects/MoviesLibrary2/app/build/intermediates/pre-dexed/debug/classes_4b6ca0a8d6f7a61b79eec15eea744220ac26b088.jar" />
+    </item>
+
+</items>
